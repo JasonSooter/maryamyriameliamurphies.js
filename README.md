@@ -38,7 +38,7 @@
 
 First published entirely by chance on St. Patrick's Day, 2016.
 
-##### [Try it now with Tonic](https://tonicdev.com/npm/maryamyriameliamurphies)
+##### [Try it now with Tonic](https://npm.runkit.com/maryamyriameliamurphies)
 
 ##### [Complete Online API Documentation](http://sjsyrek.github.io/maryamyriameliamurphies.js/)
 
